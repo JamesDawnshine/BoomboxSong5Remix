@@ -1,0 +1,11 @@
+{
+    "name": "BoomboxSong5Remix",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "This mod basically replaces Song 5 by ZedFox on the Boombox with my own remix. Hope everybody enjoys it!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "no00ob-LCSoundTool-1.2.2",
+        "Clementinise-CustomSounds-1.2.3"
+    ]
+}
